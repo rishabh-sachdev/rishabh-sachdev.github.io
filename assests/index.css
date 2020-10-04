@@ -86,7 +86,7 @@ html,body{
   border-width: 2px;
   border-color: rgb(152, 152, 152);
   width: calc(32.7% - 20px);
-  height: 170px;
+  height: 290px;
   margin: 0px 13px;
   border-radius: 7px;
 }
@@ -318,7 +318,7 @@ a:hover {
    font-size: 16px;
    max-width: 94%;
    margin: 12px auto;
-   height: 63px;
+   height: 100px;
 }
 
 .read_button{
@@ -326,7 +326,7 @@ a:hover {
   height: 56px;
   text-align: center;
   margin: 21px auto;
-  background: #2f87ff;
+  background:palegreen;
   border-radius: 30px;
   color: #fff;
   font-size: 17px;
