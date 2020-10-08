@@ -347,3 +347,9 @@ a:hover {
     z-index: 10;
     height: 5000px;
 }
+
+.default_text {
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 17px;
+}
